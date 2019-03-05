@@ -2,7 +2,7 @@
     "name": "tweedegolf/wkhtmltox-deb9",
     "description": "Convert html to pdf using webkit. Binary for Debian 9.",
     "keywords": ["wkhtmltopdf", "wkhtmltoimage", "binary"],
-    "license": "LGPL Version 3",
+    "license": "LGPL-3.0-only",
     "authors": [
         {
             "name": "Marlon Baeten",
